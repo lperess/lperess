@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A curious full-stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
